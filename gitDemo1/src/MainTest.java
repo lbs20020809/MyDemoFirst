@@ -3,5 +3,6 @@ public class MainTest {
         System.out.println("I love you");
         String a="aaa";
         System.out.println(a);
+        System.out.println("ppppp");
     }
 }
